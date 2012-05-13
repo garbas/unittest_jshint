@@ -1,3 +1,4 @@
 *.py?
 
-src/unittest_jshint.egg-info/
+/src/unittest_jshint.egg-info/
+/dist/
